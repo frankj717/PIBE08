@@ -1,0 +1,159 @@
+body{
+    background: green;
+}
+.texto{
+    padding: 30px;
+}
+.titulo{
+    text-align: center;
+    font-size: 50px;
+}
+.titulos2{
+    text-align: center;
+    font-size: 50px;
+}
+.nav-item:hover{    
+    background-color: rgb(193, 170, 39);
+    border: solid black;
+  }
+.container-fluid{
+    background: rgb(212, 187, 41);
+    
+  }
+.btn{
+    background: white;
+}
+.logo{
+    height: 40px;
+    width: 50px;
+} 
+.patas{
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+a{
+    color: white;
+}
+.quees{
+    
+    padding-left: 150px;
+    width: 1200px;
+}
+.imgcentro{
+    height:100px;
+    width: 250px;
+    border:solid black 5px;
+}
+.coso{
+ 
+    border-radius: 10px;
+    padding: 12PX;
+}
+.imgytexto{
+    display:flex;
+    flex-flow: row wrap ;
+    justify-content: center;
+}
+.imgytexto2{
+    display:flex;
+    flex-flow: row wrap-reverse ;
+    justify-content: center;
+}
+.subtitulo{
+    text-align: center;
+    font-weight: 800;
+
+}
+.cocotumbes{
+    height: 500px;
+    border:solid black 10px;
+}
+.texto1{
+    width: 700px;
+    padding-left: 5px;
+}
+.texto2{
+    width: 500px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.alineado{
+    text-align: center;
+}
+.habitatimg{
+    width: 400px;
+    border:solid black 10px;
+}
+.alimentacion{
+    width: 400px;
+    border:solid black 10px;
+}
+.amenazas{
+    width: 400px;
+border:solid black 10px;
+}
+.fin{
+    text-align: center;
+    font-size: 30px;
+}
+.linea1{
+    background: rgb(193, 170, 39);
+    height: 100px;
+    width: 200px;
+}
+.boton2 :hover{
+    color: white;
+}
+.boton2{
+    justify-content: center;
+    text-align: center;
+    
+}
+.btn{
+    background: white;
+    color: black;
+}
+.card{
+    align-items: center;
+    text-align: center;
+    background: rgb(241, 233, 180);
+}
+.cards{
+    height: 170px;
+    border-radius: 20px;
+}
+.cards1{
+    height: 160px;
+    border-radius: 20px;
+}
+.cards2{
+    height: 200px;
+    border-radius: 20px;
+}
+.col-sm-6{
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+.izquierda{
+    width: 200px;
+    text-align: center;
+}
+.derecha{
+    width: 300px;
+    text-align: center;
+}
+.table{
+    justify-content: center;
+}
+.table-hover{
+    background: #68ddbe84;
+}
+.retorno{
+    justify-content: center;
+    text-align: center;
+}
+.logotecsup{
+    height: 30px;
+}
